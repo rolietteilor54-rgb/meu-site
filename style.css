@@ -1,3 +1,4 @@
+@media (max-width: 768px) {
 .sos{
  display: block;
  margin: 30px auto;
@@ -22,7 +23,7 @@
  position:fixed ;
  top: 50%;
  left:50% ;
- transform: translate(-50% -60%);
+ transform: translate(-50%, -60%);
 
  text-align: center; 
  overflow-y: auto;
@@ -189,3 +190,4 @@ body {
   font-size: 30px;
 }
 
+}
