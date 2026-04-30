@@ -1,0 +1,60 @@
+.banner{ 
+  width: 95%;
+  max-width: none;
+  margin: 15px auto;
+  border-radius: 10px;
+}
+h1{
+  font-size: 20px;
+  text-align: center;
+  width: 90%;
+  margin: 15px auto 10px;
+}
+.principal{
+   width: 90%;
+   font-size: 18px;
+   line-height: 1.5;
+   text-align: center;
+   margin-top: 5px;
+} 
+  .sos {
+   display: block;
+   width: 70%;
+   font-size: 45px;
+   padding: 25px;
+   margin: 30px auto;
+}
+ .botoes{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 12px;
+}
+.btn{
+ width: 85%;
+ font-size: 18px;
+ padding: 15px;
+}
+.caixa{
+ width: 90%;
+ height: 70vh;       
+ max-width: none;
+ padding: 20px;
+} 
+.caixa p, 
+.caixa li {
+   font-size: 16px;
+   line-height: 1.5;
+}
+.fechar{
+  font-size: 16px;
+  padding: 10px;
+}
+ .secao-final{
+  width: 90%;
+  font-size: 14px;
+  margin: 25px auto;
+ }
+ .secao-final h2 {
+  font-size: 20px;
+ }
